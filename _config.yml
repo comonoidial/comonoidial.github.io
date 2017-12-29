@@ -1,1 +1,15 @@
-theme: jekyll-theme-cayman
+title: Programming language dissillusions and ideas
+description: Thoughts about programming language design and implementation
+show_downloads: false
+
+baseurl: 
+url: "https://comonoidial.github.io"
+
+google_analytics:
+
+theme: # leave it empty
+
+author: "Arjan"
+
+exclude:
+- README.md
